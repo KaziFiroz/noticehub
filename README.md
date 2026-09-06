@@ -190,4 +190,4 @@ This project was built for educational purposes as part of an MCA coursework ass
 
 ## 🙋 Author
 
-**Your Name** — feel free to reach out via [LinkedIn](#) or [email](#).
+**Firoz Rahman Kazi** — feel free to reach out via [LinkedIn](#) or [email](#).
