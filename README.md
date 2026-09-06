@@ -2,7 +2,7 @@
 
 A full-stack notice board application for educational institutions, built with **Spring Boot** (Java) on the backend and **React** on the frontend. It supports role-based access control so Admins, Faculty, and Students each see and can do only what their role permits.
 
-> Built as an academic project (MCA, Internet Programming) to practice a complete full-stack workflow: REST APIs, JWT authentication, relational data modeling, and a React SPA consuming a secured backend.
+> Built as an academic project to practice a complete full-stack workflow: REST APIs, JWT authentication, relational data modeling, and a React SPA consuming a secured backend.
 
 ---
 
