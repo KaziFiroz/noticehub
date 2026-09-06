@@ -1,0 +1,41 @@
+# ===== Secrets / environment files (NEVER commit these) =====
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+application-local.properties
+application-secrets.properties
+
+# ===== Backend (Maven / Spring Boot) =====
+backend/**/target/
+backend/**/.mvn/wrapper/maven-wrapper.jar
+backend/**/HELP.md
+!backend/**/src/main/**/target/
+!backend/**/src/test/**/target/
+
+# ===== Frontend (Node / React) =====
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# ===== IDE / Editor =====
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+.apt_generated
+.springBeans
+.sts4-cache
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
